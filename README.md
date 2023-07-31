@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whdgjs7300&label=Profile%20views&color=0e75b6&style=flat" alt="whdgjs7300" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://jongheon-portpolio.netlify.app](https://jongheons.notion.site/3d73bf68997848ce922d797eda92607a?pvs=4)
+- 👨‍💻 All of my projects are available at https://jongheons.notion.site/3d73bf68997848ce922d797eda92607a?pvs=4
+   
 
 - 📫 How to reach me **whdgjs7300@naver.com**
 
